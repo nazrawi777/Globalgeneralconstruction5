@@ -1,0 +1,525 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("../fonts/flaticon_mycollection.woff2@5ef033355d1b340cc7391409656e30e1") format("woff2"),
+url("../fonts/flaticon_mycollection.woff@5ef033355d1b340cc7391409656e30e1") format("woff"),
+url("../fonts/flaticon_mycollection.eot@5ef033355d1b340cc7391409656e30e1") format("embedded-opentype"),
+url("../fonts/flaticon_mycollection.ttf@5ef033355d1b340cc7391409656e30e1") format("truetype"),
+url("../fonts/flaticon_mycollection.svg@5ef033355d1b340cc7391409656e30e1") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: -0.125em;
+}
+
+.flaticon-facebook-app-symbol:before {
+    content: "\f101";
+}
+.flaticon-twitter:before {
+    content: "\f102";
+}
+.flaticon-instagram:before {
+    content: "\f103";
+}
+.flaticon-linkedin:before {
+    content: "\f104";
+}
+.flaticon-dribble:before {
+    content: "\f105";
+}
+.flaticon-whatsapp:before {
+    content: "\f106";
+}
+.flaticon-reddit-logo:before {
+    content: "\f107";
+}
+.flaticon-youtube:before {
+    content: "\f108";
+}
+.flaticon-viber:before {
+    content: "\f109";
+}
+.flaticon-viber-1:before {
+    content: "\f10a";
+}
+.flaticon-tik-tok:before {
+    content: "\f10b";
+}
+.flaticon-phone-call:before {
+    content: "\f10c";
+}
+.flaticon-telephone:before {
+    content: "\f10d";
+}
+.flaticon-call:before {
+    content: "\f10e";
+}
+.flaticon-viber-2:before {
+    content: "\f10f";
+}
+.flaticon-customer-service:before {
+    content: "\f110";
+}
+.flaticon-virtual-assistants:before {
+    content: "\f111";
+}
+.flaticon-phone-call-1:before {
+    content: "\f112";
+}
+.flaticon-mail:before {
+    content: "\f113";
+}
+.flaticon-email:before {
+    content: "\f114";
+}
+.flaticon-email-1:before {
+    content: "\f115";
+}
+.flaticon-email-2:before {
+    content: "\f116";
+}
+.flaticon-letter:before {
+    content: "\f117";
+}
+.flaticon-home-address:before {
+    content: "\f118";
+}
+.flaticon-location:before {
+    content: "\f119";
+}
+.flaticon-location-1:before {
+    content: "\f11a";
+}
+.flaticon-home:before {
+    content: "\f11b";
+}
+.flaticon-website:before {
+    content: "\f11c";
+}
+.flaticon-address:before {
+    content: "\f11d";
+}
+.flaticon-location-2:before {
+    content: "\f11e";
+}
+.flaticon-location-3:before {
+    content: "\f11f";
+}
+.flaticon-ip-address:before {
+    content: "\f120";
+}
+.flaticon-working-time:before {
+    content: "\f121";
+}
+.flaticon-business:before {
+    content: "\f122";
+}
+.flaticon-working-time-1:before {
+    content: "\f123";
+}
+.flaticon-time-management:before {
+    content: "\f124";
+}
+.flaticon-punctuality:before {
+    content: "\f125";
+}
+.flaticon-work-schedule:before {
+    content: "\f126";
+}
+.flaticon-working-hours:before {
+    content: "\f127";
+}
+.flaticon-clock:before {
+    content: "\f128";
+}
+.flaticon-award-symbol:before {
+    content: "\f129";
+}
+.flaticon-award:before {
+    content: "\f12a";
+}
+.flaticon-trophy:before {
+    content: "\f12b";
+}
+.flaticon-badge:before {
+    content: "\f12c";
+}
+.flaticon-trophy-1:before {
+    content: "\f12d";
+}
+.flaticon-award-1:before {
+    content: "\f12e";
+}
+.flaticon-olive-branches-award-symbol:before {
+    content: "\f12f";
+}
+.flaticon-medal:before {
+    content: "\f130";
+}
+.flaticon-winner:before {
+    content: "\f131";
+}
+.flaticon-award-2:before {
+    content: "\f132";
+}
+.flaticon-calendar:before {
+    content: "\f133";
+}
+.flaticon-calendar-1:before {
+    content: "\f134";
+}
+.flaticon-schedule:before {
+    content: "\f135";
+}
+.flaticon-schedule-1:before {
+    content: "\f136";
+}
+.flaticon-calendar-2:before {
+    content: "\f137";
+}
+.flaticon-calendar-3:before {
+    content: "\f138";
+}
+.flaticon-user:before {
+    content: "\f139";
+}
+.flaticon-user-1:before {
+    content: "\f13a";
+}
+.flaticon-user-gear:before {
+    content: "\f13b";
+}
+.flaticon-edit-image:before {
+    content: "\f13c";
+}
+.flaticon-edit-file:before {
+    content: "\f13d";
+}
+.flaticon-folder:before {
+    content: "\f13e";
+}
+.flaticon-asterisk:before {
+    content: "\f13f";
+}
+.flaticon-asterisk-1:before {
+    content: "\f140";
+}
+.flaticon-asterisk-2:before {
+    content: "\f141";
+}
+.flaticon-medical:before {
+    content: "\f142";
+}
+.flaticon-shopping-cart:before {
+    content: "\f143";
+}
+.flaticon-shopping-cart-1:before {
+    content: "\f144";
+}
+.flaticon-shopping-bag:before {
+    content: "\f145";
+}
+.flaticon-home-1:before {
+    content: "\f146";
+}
+.flaticon-house:before {
+    content: "\f147";
+}
+.flaticon-house-1:before {
+    content: "\f148";
+}
+.flaticon-modern-house:before {
+    content: "\f149";
+}
+.flaticon-insurance-company:before {
+    content: "\f14a";
+}
+.flaticon-company:before {
+    content: "\f14b";
+}
+.flaticon-management:before {
+    content: "\f14c";
+}
+.flaticon-interior-design:before {
+    content: "\f14d";
+}
+.flaticon-home-2:before {
+    content: "\f14e";
+}
+.flaticon-design:before {
+    content: "\f14f";
+}
+.flaticon-sketch:before {
+    content: "\f150";
+}
+.flaticon-designing:before {
+    content: "\f151";
+}
+.flaticon-project-management:before {
+    content: "\f152";
+}
+.flaticon-project-management-1:before {
+    content: "\f153";
+}
+.flaticon-management-1:before {
+    content: "\f154";
+}
+.flaticon-project:before {
+    content: "\f155";
+}
+.flaticon-project-management-2:before {
+    content: "\f156";
+}
+.flaticon-analytics:before {
+    content: "\f157";
+}
+.flaticon-construction-method:before {
+    content: "\f158";
+}
+.flaticon-commercial:before {
+    content: "\f159";
+}
+.flaticon-skyline:before {
+    content: "\f15a";
+}
+.flaticon-buildings:before {
+    content: "\f15b";
+}
+.flaticon-house-2:before {
+    content: "\f15c";
+}
+.flaticon-plan:before {
+    content: "\f15d";
+}
+.flaticon-renovation:before {
+    content: "\f15e";
+}
+.flaticon-real-estate:before {
+    content: "\f15f";
+}
+.flaticon-installation:before {
+    content: "\f160";
+}
+.flaticon-housing:before {
+    content: "\f161";
+}
+.flaticon-apartment:before {
+    content: "\f162";
+}
+.flaticon-architect:before {
+    content: "\f163";
+}
+.flaticon-office-building:before {
+    content: "\f164";
+}
+.flaticon-blueprint:before {
+    content: "\f165";
+}
+.flaticon-renovation-1:before {
+    content: "\f166";
+}
+.flaticon-home-repair:before {
+    content: "\f167";
+}
+.flaticon-helmet:before {
+    content: "\f168";
+}
+.flaticon-under-construction:before {
+    content: "\f169";
+}
+.flaticon-labor:before {
+    content: "\f16a";
+}
+.flaticon-under-construction-1:before {
+    content: "\f16b";
+}
+.flaticon-construction-machine:before {
+    content: "\f16c";
+}
+.flaticon-hard-hat:before {
+    content: "\f16d";
+}
+.flaticon-construction:before {
+    content: "\f16e";
+}
+.flaticon-construction-1:before {
+    content: "\f16f";
+}
+.flaticon-labor-day:before {
+    content: "\f170";
+}
+.flaticon-construction-tools:before {
+    content: "\f171";
+}
+.flaticon-technology:before {
+    content: "\f172";
+}
+.flaticon-house-3:before {
+    content: "\f173";
+}
+.flaticon-manufacture:before {
+    content: "\f174";
+}
+.flaticon-house-4:before {
+    content: "\f175";
+}
+.flaticon-sketching:before {
+    content: "\f176";
+}
+.flaticon-milling-machine:before {
+    content: "\f177";
+}
+.flaticon-renovation-2:before {
+    content: "\f178";
+}
+.flaticon-home-renovation:before {
+    content: "\f179";
+}
+.flaticon-renovation-3:before {
+    content: "\f17a";
+}
+.flaticon-renovation-4:before {
+    content: "\f17b";
+}
+.flaticon-house-plan:before {
+    content: "\f17c";
+}
+.flaticon-building-construction:before {
+    content: "\f17d";
+}
+.flaticon-construction-2:before {
+    content: "\f17e";
+}
+.flaticon-civil-engineering:before {
+    content: "\f17f";
+}
+.flaticon-civil-engineering-1:before {
+    content: "\f180";
+}
+.flaticon-civil-engineering-2:before {
+    content: "\f181";
+}
+.flaticon-technology-1:before {
+    content: "\f182";
+}
+.flaticon-electronic:before {
+    content: "\f183";
+}
+.flaticon-engineer:before {
+    content: "\f184";
+}
+.flaticon-design-team:before {
+    content: "\f185";
+}
+.flaticon-management-2:before {
+    content: "\f186";
+}
+.flaticon-team:before {
+    content: "\f187";
+}
+.flaticon-living-room:before {
+    content: "\f188";
+}
+.flaticon-design-thinking:before {
+    content: "\f189";
+}
+.flaticon-paint:before {
+    content: "\f18a";
+}
+.flaticon-civil-engineering-3:before {
+    content: "\f18b";
+}
+.flaticon-integrity:before {
+    content: "\f18c";
+}
+.flaticon-construction-3:before {
+    content: "\f18d";
+}
+.flaticon-bridge:before {
+    content: "\f18e";
+}
+.flaticon-structure:before {
+    content: "\f18f";
+}
+.flaticon-mechanic:before {
+    content: "\f190";
+}
+.flaticon-house-5:before {
+    content: "\f191";
+}
+.flaticon-appliance-repair:before {
+    content: "\f192";
+}
+.flaticon-home-repair-1:before {
+    content: "\f193";
+}
+.flaticon-fix:before {
+    content: "\f194";
+}
+.flaticon-worker:before {
+    content: "\f195";
+}
+.flaticon-engineer-1:before {
+    content: "\f196";
+}
+.flaticon-quote:before {
+    content: "\f197";
+}
+.flaticon-quotation:before {
+    content: "\f198";
+}
+.flaticon-quote-1:before {
+    content: "\f199";
+}
+.flaticon-quotes:before {
+    content: "\f19a";
+}
+.flaticon-checked:before {
+    content: "\f19b";
+}
+.flaticon-checked-1:before {
+    content: "\f19c";
+}
+.flaticon-read:before {
+    content: "\f19d";
+}
+.flaticon-check:before {
+    content: "\f19e";
+}
+.flaticon-check-mark:before {
+    content: "\f19f";
+}
+.flaticon-seen:before {
+    content: "\f1a0";
+}
+.flaticon-check-mark-1:before {
+    content: "\f1a1";
+}
+.flaticon-check-mark-2:before {
+    content: "\f1a2";
+}
+.flaticon-check-mark-3:before {
+    content: "\f1a3";
+}
+.flaticon-global:before {
+    content: "\f1a4";
+}
+
