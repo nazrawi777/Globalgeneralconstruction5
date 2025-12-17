@@ -1,5 +1,5 @@
 /* ------------------------------------------------
-  Project:   Buildzie - Construction HTML5 Template
+  Project:   Global General Construction Company
   Author:    ThemeHt
 ------------------------------------------------ */
 
@@ -21,9 +21,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
 :root {
-  --themeht-primary-color: #f1bb01;
+  --themeht-primary-color: #1e3cae;
     --themeht-body-bg-color: #010101;
-    --themeht-text-color: #1D1C21;
+    --themeht-text-color: #359df2;
     --themeht-body-color: #919191;
     --themeht-white-color: #FFFFFF;
     --themeht-bg-dark-color: #010101;
@@ -248,10 +248,10 @@ iframe { width: 100%; border: none; pointer-events: auto; }
     Responsive Css
 ------------------------*/
 @media (max-width:1800px) {
-    .hero-lg-text { font-size: 350px; }
+    .hero-lg-text { font-size: 150px; }
 }
 @media (max-width:1599px) {
-    .hero-lg-text { font-size: 280px; }
+    .hero-lg-text { font-size: 140px; }
     .banner-one .video-btn-icon > i { width: 100px; height: 100px; line-height: 100px; font-size: 40px; }
     .service-item.style-3 .service-title h4 { font-size: 60px; line-height: 60px; }
 }
@@ -325,7 +325,7 @@ iframe { width: 100%; border: none; pointer-events: auto; }
     .header { padding: 20px; }
     .admin-bar .header { top: 45px; }
     .bg-parallax { background-position: top center !important; background-size: cover; }
-    .loader-wrap-heading .load-text { font-size: 40px; letter-spacing: 10px;}
+    .loader-wrap-heading .load-text { font-size: 50px; letter-spacing: 10px;}
 }
 @media (max-width:767px) {
     h1 { font-size: 60px !important; line-height: 70px !important; }
@@ -366,7 +366,7 @@ iframe { width: 100%; border: none; pointer-events: auto; }
     .service-item.style-4 .service-title h4 { font-size: 40px; }
     .service-list-item li { width: 100%; }
     .themeht-anim-text .char { opacity: 1 !important; }
-    .loader-wrap-heading .load-text { font-size: 20px; letter-spacing: 5px;}
+    .loader-wrap-heading .load-text { font-size: 50px; letter-spacing: 5px;}
 }
 @media (max-width:576px) {
     h1, .h1 { font-size: 42px !important; line-height: 52px !important; }
